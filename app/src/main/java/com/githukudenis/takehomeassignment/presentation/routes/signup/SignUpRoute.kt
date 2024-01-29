@@ -142,7 +142,7 @@ private fun SignUpScreen(
                     }
                 }) {
                 Text(
-                    text = stringResource(id = R.string.sign_in_label),
+                    text = stringResource(id = R.string.sign_up_label),
                     modifier = Modifier.padding(vertical = 8.dp)
                 )
             }
