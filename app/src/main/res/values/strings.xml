@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment</string>
+
+    <!-- Sign in Labels -->
+    <string name="sign_in_title">Sign in</string>
+    <string name="sign_in_label">Sign in</string>
+    <string name="remember_me_label">Remember me</string>
+    <string name="dont_have_account_label">Don\'t have an account?</string>
+
+    <!-- Sign up Labels -->
+    <string name="sign_up_title">Create account</string>
+    <string name="sign_up_label">Sign up</string>
+    <string name="accept_terms_label">I accept the terms and privacy policy.</string>
+    <string name="already_have_account_label">Already have an account?</string>
+
+    <!-- Common Labels -->
+    <string name="username_label">Username</string>
+    <string name="username_placeholder">Your username</string>
+    <string name="email_label">Email</string>
+    <string name="email_placeholder">Your email</string>
+    <string name="password_label">Password</string>
+    <string name="password_placeholder">Your password</string>
+    <string name="string_toggle_password_visibility">Toggle password</string>
+    <string name="forgot_password_label">Forgot password?</string>
+
+    <!-- Form -->
+    <string name="invalid_form">Invalid details. Please check your data!</string>
+    <string name="valid_form">Correct details!</string>
+</resources>
